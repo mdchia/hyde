@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Ming-Dao Chia
 tagline:          ''
 description:      'Biologist. Designer. Engineer. Coder. Maker.'
-url:              https://mdchia.github.io/hyde-website/
+url:              https://mingdaochia.com/
 baseurl:          /
 
 author:
   name:           'Ming-Dao Chia'
-  url:            https://mdchia.github.io/hyde-website/
+  url:            https://mingdaochia.com/
 
 paginate:         5
 

@@ -1,30 +1,22 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I majored in Cell & Molecular Biology with a specialization in Genetics at the Australian National University.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I am currently a part-time technical officer designing and manufacturing 3D printed lab equipment with the ANU Borevitz Lab, which investigates plant genomics for climate adaptation. My equipment designs include parts used for phenomics research, with further applications in plant molecular farming and urban indoor agriculture.
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Previous experience includes:
+- Surgical skills (Surgical Internship at Stanford University School of Medicine, Cardiothoracic Surgical Skills and Education Center, USA)
+- Bioinformatics and programming (R, Python, Perl, Haskell)
+- Data visualization (R language)
+- Web development (HTML, CSS, PHP, JS)
+- 3D Modeling (OpenSCAD)
+- Genomics
+- Plant molecular science
+- Additive manufacturing
+- Scuba diving (Junior Advanced Open Water Diver certification, PADI Europe)
+- Financial trading (Certificate in Short-Term Trading, New York Institute of Finance)
+- Graphic design (Inkscape, GIMP, Photoshop)
+- Graphic arts ($1,000 Merit Prize for Logo Competition, Agency for Science, Technology and Research, Singapore)

@@ -10,11 +10,10 @@ title:            Ming-Dao Chia
 tagline:          ''
 description:      'Biologist. Designer. Engineer. Coder. Maker.'
 url:              https://mingdaochia.com
-baseurl:          /
 
 author:
   name:           'Ming-Dao Chia'
-  url:            https://mingdaochia.com/
+  url:            https://mingdaochia.com
 
 paginate:         5
 

@@ -9,5 +9,5 @@ In the meantime, follow me on your preferred social media channels:
 
 - [Facebook](https://www.facebook.com/realMingChia/)
 - [LinkedIn](https://www.linkedin.com/in/chiamd/)
-- [Instagram](instagram.com/mingy2310/)
+- [Instagram](https://instagram.com/mingy2310/)
 - [Twitter](https://twitter.com/realMingChia)

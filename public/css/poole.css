@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   font-size: 2rem;
-  
+
 }
 h2 {
   margin-top: 1rem;
@@ -252,6 +252,19 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/* Forms */
+
+input, textarea {
+    margin-bottom: 1rem;
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    font:  inherit;
+    padding: 0.3em;
+}
+
+input[type="submit"]:hover{
+  color: #6a9fb5;
+}
 
 /*
  * Custom type
